@@ -1,4 +1,4 @@
-using BlazorAppTest1.FluxorStore;
+using BlazorAppTest1.Store;
 using Fluxor;
 using Microsoft.AspNetCore.Components;
 

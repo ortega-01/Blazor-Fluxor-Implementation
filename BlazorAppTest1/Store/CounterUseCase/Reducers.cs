@@ -1,6 +1,6 @@
 ﻿using Fluxor;
 
-namespace BlazorAppTest1.FluxorStore;
+namespace BlazorAppTest1.Store.CounterUseCase;
 
 public class CounterStateReducers
 {
